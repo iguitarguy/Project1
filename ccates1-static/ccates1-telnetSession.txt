@@ -1,0 +1,22 @@
+GET /~ccates1/ HTTP/1.0lnet Client
+HTTP/1.1 200 OK
+Date: Thu, 28 Jan 2016 22:06:12 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 28 Jan 2016 00:13:22 GMT
+ETag: "b5-52a59c9632d62"
+Accept-Ranges: bytes
+Content-Length: 181
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+<!DOCTYPE html>
+               <html>
+                        <head>
+                                        <h1>Christopher Cates ITEC 3860 Web Page</h1>
+                                                                                        </head>
+                                                                                                <
+body>
+                <p>This is my personal web page for the part b of the project</p>
+                                                                                        </body>
+                                                                                               </
+html>
