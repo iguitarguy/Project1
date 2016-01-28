@@ -1,0 +1,15 @@
+GET /~atsou/ HTTP/1.0Telnet Client
+HTTP/1.1 200 OK
+Date: Thu, 28 Jan 2016 17:03:27 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 28 Jan 2016 00:10:14 GMT
+ETag: "2c-52a59be258d82"
+Accept-Ranges: bytes
+Content-Length: 44
+Connection: close
+Content-Type: text/html
+<html>
+      <body>
+            Hello World!
+                        </body>
+                               </html>
