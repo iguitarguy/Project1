@@ -13,7 +13,7 @@
     "debug": "~2.2.0",
     "ejs": "~2.4.1",
     "express": "~4.13.1",
-    "express-session": "~0.3.2",
+    "express-session": "*",
     "mongodb": "*",
     "mongoose": "~4.3.7",
     "morgan": "~1.6.1",
