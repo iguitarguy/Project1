@@ -1,13 +1,13 @@
 {
   "name": "twitter-clone",
   "version": "1.0.0",
-  "description": "Aston Tsou & Christopher Cates"
+  "description": "Aston Tsou & Christopher Cates",
   "private": false,
   "scripts": {
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "angular" "~1.4.9",
+    "angular": "~1.4.9",
     "body-parser": "~1.13.2",
     "cookie-parser": "~1.3.5",
     "debug": "~2.2.0",
