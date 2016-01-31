@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Register</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="stylesheets/style.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Register</h1>
+            <p class="lead">Fill out the information below to create a new account.</p>
+            <form role-"form" action="/register" method="post" style="max-width: 300px;">
+                <div class="form-group">
+                    <input type="text" name="username" placeholder="Username" class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <input type="password" name="password" placeholder="Password" class="form-control"/>
+                </div>
+                <button type="submit" class="btn btn-default">Submit</button>
+            </form>
+        </div>
+    </body>
+</html>
