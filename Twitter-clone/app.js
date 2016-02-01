@@ -32,7 +32,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 // serves static files with express
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'views')));
 app.use('/', routes);
 
 // passport config
