@@ -12,7 +12,6 @@ var LocalStrategy = require('passport-local').Strategy;
 var routes = require('./routes/index');
 
 var app = express();
-var port = process.env.PORT || 3000;
 
 // template engine setup
 app.engine('html', require('ejs').renderFile);

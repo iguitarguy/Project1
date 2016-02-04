@@ -14,7 +14,7 @@
     "ejs": "~2.4.1",
     "express": "~4.13.1",
     "express-session": "*",
-    "mongodb": "*",
+    "mongodb": "^2.1.4",
     "mongoose": "~4.3.7",
     "morgan": "~1.6.1",
     "passport": "~0.3.2",
@@ -22,4 +22,4 @@
     "passport-local-mongoose": "~4.0.0",
     "serve-favicon": "~2.3.0"
   }
-} 
+}
