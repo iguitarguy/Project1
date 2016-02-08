@@ -25,7 +25,7 @@
         }
       });
 
-      $urlRouterProvider.otherwise("home");
+      $urlRouterProvider.otherwise("dashboard");
     }
   ]);
 })();

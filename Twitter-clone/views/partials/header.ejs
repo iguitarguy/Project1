@@ -14,8 +14,9 @@
     <div class="collapse navbar-collapse" id="navbar-ex-collapse">
       <ul class="nav navbar-nav navbar-right">
         <li ng-show="isLoggedIn()">
-          <a>{{ currentUser() }}</a>
+          <a>Welcome, {{ currentUser() }}</a>
         </li>
+        <li><img src="images/bird.png" alt="Logo" style="width: 50px; height:50px;"></li>
         <li ng-show="isLoggedIn()">
           <a href="" ng-click="logOut()">Log Out</a>
         </li>
